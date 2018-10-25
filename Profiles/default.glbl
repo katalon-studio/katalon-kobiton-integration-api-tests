@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Basic a2F0YWxvbi1pbnRlZ3JhdGlvbjpkODYxMTk0Ni04MjM5LTRhZTMtYWY0Yi1jNzllOGVmMmU3N2Q='</initValue>
+      <name>authorization</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTU4MzIsImlhdCI6MTU0MDM4NTM0NywiZXhwIjoxNTQyOTc3MzQ3fQ.y2xZzaK2zJKBLbBTG6ai1NvgjYcucW3_BvrrS-cHre8'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
